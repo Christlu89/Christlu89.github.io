@@ -1,6 +1,6 @@
 # This page contains the collections by Christlu 
 ## The collections can divide into three parts as below
-## Independent study
-## Machine learning teaching materials
-## Project
+## 1.Independent study
+## 2.Machine learning teaching materials
+## 3.Project
 GitHub Pages
