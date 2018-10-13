@@ -2,8 +2,8 @@
 ## The collections can divide into three parts as below
 ## 1.Independent study
 ## 2.Machine learning teaching materials
-## 3.Project
-## 4.Thesis
+## 3.Thesis
+
 
 # 1.Independent study
 ## Subject:樂活彰師(LOHAS NCUE)
@@ -76,6 +76,18 @@ C. 交通工具
 ## [5.回歸](https://github.com/Christlu89/Christlu89.github.io/blob/master/5.%20%E5%9B%9E%E6%AD%B8.pptx "5.回歸") 
 ## [6.人工神經網路及多層感知機](https://github.com/Christlu89/Christlu89.github.io/blob/master/6.%20ANN%2BMLP.pptx "6.人工神經網路及多層感知機") 
 ## [7.遞迴神經網路](https://github.com/Christlu89/Christlu89.github.io/blob/master/7.%20RNN.pptx "7.遞迴神經網路") 
+
+=================================================================================
+
+# 3.Thesis
+## 應用特徵圖可視化和卷積神經網路於花粉粒分類之研究
+## The study on applying the visualization of feature map and convolutional neural network to pollen grains classification
+
+### 摘要
+   花粉粒在許多領域的應用非常廣泛，如蜂花粉含有高營養價值，有助於人類的美麗和健康，對其辨識並分類能使產品品質得到保證，花粉可能引發花粉過敏，藉由分類花粉可以協助醫生的診斷，花粉化石可用來研究古環境與古氣候的重建。花粉粒的分類傳統採人工方式，然而以人工分類不僅要由專家來執行，顯示花粉粒的分類需要高熟練度，而且當資料量龐大時，處理會非常耗時，因此產生了自動分類的概念。一般對於花粉粒的分類會先用影像處理方法提取出特徵，再以機器學習方法分類，準確率大概落在64%至95%，但人工提取特徵耗時，更重要的是，假如沒有提取到合適的特徵，分類的準確率會不符預期。近年來卷積神經網路(Convolution neural network, CNN)也被應用在花粉粒的研究上，CNN的卷積層具有特徵提取的功能，能夠省去繁雜的前處理步驟，因此Daood在2016年以CNN對花粉粒分類，達到約90%的準確率。本研究使用的資料集包含805張、23類的花粉粒圖像，實驗結果分為兩階段，第一階段將805張影像分為灰階與彩色以三種不同架構的CNN分類，其中彩色圖的準確率皆比灰階圖高，而彩色圖以Simple CNN所得準確率81.55%為最高，相較於使用同資料集的準確率64%有顯著的提升。第二階段以資料擴充將圖像經旋轉、縮放、裁切等方式擴充到8714張，再以Simple CNN建立預測模型，實驗結果達到了95.95%的準確率，相較於同樣以深度學習，包含30類資料集的所得89.95%的差距不大，本研究也額外收集了9類花粉與原本23類資料合併成一32類的資料集，以同樣的實驗步驟得到95.67%的準確率，說明了Simple CNN對於花粉粒分類的泛化性。由於傳統以特徵提取方式能夠對花粉粒特徵作觀察，本研究也透過卷積層的特徵圖可視化觀察花粉粒的特徵，發現同類的花粉粒其所得的特徵數以及過濾器的位置會相似，不同類的花粉粒可由顏色特徵、紋理特徵或形狀特徵去分辨其差異。
+
+關鍵字:深度學習、卷積神經網路、資料擴充、特徵圖可視化
+
 
 
 GitHub Pages
