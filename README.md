@@ -68,8 +68,8 @@ C. 交通工具
 =================================================================================
 
 # 2.Machine learning teaching materials
-[Anaconda 安裝教學](https://github.com/Christlu89/Christlu89.github.io/blob/master/Anaconda%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8.pptx "Anaconda安裝教學") 
-[機器學習基礎介紹](https://github.com/Christlu89/Christlu89.github.io/blob/master/1.%20%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%9F%BA%E7%A4%8E%E4%BB%8B%E7%B4%B9.pptx "機器學習基礎介紹") 
+## [Anaconda 安裝教學](https://github.com/Christlu89/Christlu89.github.io/blob/master/Anaconda%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8.pptx "Anaconda安裝教學") 
+## [機器學習基礎介紹](https://github.com/Christlu89/Christlu89.github.io/blob/master/1.%20%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%9F%BA%E7%A4%8E%E4%BB%8B%E7%B4%B9.pptx "機器學習基礎介紹") 
 
 
 GitHub Pages
