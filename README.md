@@ -101,4 +101,3 @@ C. 交通工具
 ### [論文檔案](https://github.com/Christlu89/Christlu89.github.io/blob/master/%E8%AB%96%E6%96%87.pdf "論文") 
 
 
-GitHub Pages
