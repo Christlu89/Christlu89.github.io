@@ -5,6 +5,6 @@
 ## 3.Project
 ## 4.Thesis
 
-###Independent study
+### Independent study
 
 GitHub Pages
