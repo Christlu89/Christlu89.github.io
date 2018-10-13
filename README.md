@@ -71,6 +71,11 @@ C. 交通工具
 ## [Anaconda 安裝教學](https://github.com/Christlu89/Christlu89.github.io/blob/master/Anaconda%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8.pptx "Anaconda安裝教學") 
 ## [1.Machine learning 基礎介紹](https://github.com/Christlu89/Christlu89.github.io/blob/master/1.%20%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%9F%BA%E7%A4%8E%E4%BB%8B%E7%B4%B9.pptx "1.Machine learning 基礎介紹") 
 ## [2.資料前處理](https://github.com/Christlu89/Christlu89.github.io/blob/master/2.%20%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86.pptx "2.資料前處理") 
+## [3.決策樹及隨機森林](https://github.com/Christlu89/Christlu89.github.io/blob/master/3.%20Decision%20tree%2BRF.pptx "3.決策樹及隨機森林") 
+## [4.支援向量機](https://github.com/Christlu89/Christlu89.github.io/blob/master/4.%20SVM.pptx "4.支援向量機") 
+## [5.回歸](https://github.com/Christlu89/Christlu89.github.io/blob/master/5.%20%E5%9B%9E%E6%AD%B8.pptx "5.回歸") 
+## [6.人工神經網路及多層感知機](https://github.com/Christlu89/Christlu89.github.io/blob/master/6.%20ANN%2BMLP.pptx "6.人工神經網路及多層感知機") 
+## [7.遞迴神經網路](https://github.com/Christlu89/Christlu89.github.io/blob/master/7.%20RNN.pptx "7.遞迴神經網路") 
 
 
 GitHub Pages
