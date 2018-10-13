@@ -5,6 +5,7 @@
 ## 3.Project
 ## 4.Thesis
 
-# Independent study
-
+# 1.Independent study
+## Subject:樂活彰師(LOHAS NCUE)
+![image](https://github.com/Christlu89/Christlu89.github.io/blob/master/13170046_667514200047411_1142613922_o.jpg)
 GitHub Pages
