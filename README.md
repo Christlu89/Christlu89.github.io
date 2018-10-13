@@ -88,7 +88,7 @@ C. 交通工具
 
 關鍵字:深度學習、卷積神經網路、資料擴充、特徵圖可視化
 
-## [論文檔案](https://github.com/Christlu89/Christlu89.github.io/blob/master/%E8%AB%96%E6%96%87.pdf "論文") 
+### [論文檔案](https://github.com/Christlu89/Christlu89.github.io/blob/master/%E8%AB%96%E6%96%87.pdf "論文") 
 
 
 GitHub Pages
