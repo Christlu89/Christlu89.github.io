@@ -70,6 +70,7 @@ C. 交通工具
 # 2.Machine learning teaching materials
 ## [Anaconda 安裝教學](https://github.com/Christlu89/Christlu89.github.io/blob/master/Anaconda%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8.pptx "Anaconda安裝教學") 
 ## [1.Machine learning 基礎介紹](https://github.com/Christlu89/Christlu89.github.io/blob/master/1.%20%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%9F%BA%E7%A4%8E%E4%BB%8B%E7%B4%B9.pptx "1.Machine learning 基礎介紹") 
+## [2.資料前處理](https://github.com/Christlu89/Christlu89.github.io/blob/master/2.%20%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86.pptx "2.資料前處理") 
 
 
 GitHub Pages
