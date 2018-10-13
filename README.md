@@ -68,7 +68,7 @@ C. 交通工具
 =================================================================================
 
 # 2.Machine learning teaching materials
---
+This is [an example](https://github.com/Christlu89/Christlu89.github.io/blob/master/Anaconda%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8.pptx "Anaconda安裝教學") inline link.
 
 
 
